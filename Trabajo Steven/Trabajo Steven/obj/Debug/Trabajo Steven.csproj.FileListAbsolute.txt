@@ -1,0 +1,10 @@
+C:\Users\seque\source\repos\Trabajo Steven\Trabajo Steven\bin\Debug\Trabajo Steven.exe.config
+C:\Users\seque\source\repos\Trabajo Steven\Trabajo Steven\bin\Debug\Trabajo Steven.exe
+C:\Users\seque\source\repos\Trabajo Steven\Trabajo Steven\bin\Debug\Trabajo Steven.pdb
+C:\Users\seque\source\repos\Trabajo Steven\Trabajo Steven\obj\Debug\Trabajo Steven.csproj.AssemblyReference.cache
+C:\Users\seque\source\repos\Trabajo Steven\Trabajo Steven\obj\Debug\Trabajo_Steven.Form1.resources
+C:\Users\seque\source\repos\Trabajo Steven\Trabajo Steven\obj\Debug\Trabajo_Steven.Properties.Resources.resources
+C:\Users\seque\source\repos\Trabajo Steven\Trabajo Steven\obj\Debug\Trabajo Steven.csproj.GenerateResource.cache
+C:\Users\seque\source\repos\Trabajo Steven\Trabajo Steven\obj\Debug\Trabajo Steven.csproj.CoreCompileInputs.cache
+C:\Users\seque\source\repos\Trabajo Steven\Trabajo Steven\obj\Debug\Trabajo Steven.exe
+C:\Users\seque\source\repos\Trabajo Steven\Trabajo Steven\obj\Debug\Trabajo Steven.pdb
